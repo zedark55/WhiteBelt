@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Projects\VS\White_border\2\02_vector_average_temperature\main.cpp(32,29): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Projects\VS\White_border\2\02_vector_average_temperature\main.cpp(52,19): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+D:\Projects\VS\White_border\2\02_vector_average_temperature\main.cpp(52,19): warning C4267:         with
+D:\Projects\VS\White_border\2\02_vector_average_temperature\main.cpp(52,19): warning C4267:         [
+D:\Projects\VS\White_border\2\02_vector_average_temperature\main.cpp(52,19): warning C4267:             _Ty=int
+D:\Projects\VS\White_border\2\02_vector_average_temperature\main.cpp(52,19): warning C4267:         ]
+  02_vector_average_temperature.vcxproj -> D:\Projects\VS\White_border\2\02_vector_average_temperature\x64\Debug\02_vector_average_temperature.exe

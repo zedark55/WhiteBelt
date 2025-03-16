@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\VS\\White_border\\1\\Task06_second_occurence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC87A07-8DC7-45A9-BB90-C55597ECBABD}|Task06_second_occurence.vcxproj|D:\\Projects\\VS\\White_border\\1\\Task06_second_occurence\\mian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EC87A07-8DC7-45A9-BB90-C55597ECBABD}|Task06_second_occurence.vcxproj|solutionrelative:mian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mian.cpp",
+              "DocumentMoniker": "D:\\Projects\\VS\\White_border\\1\\Task06_second_occurence\\mian.cpp",
+              "RelativeDocumentMoniker": "mian.cpp",
+              "ToolTip": "D:\\Projects\\VS\\White_border\\1\\Task06_second_occurence\\mian.cpp*",
+              "RelativeToolTip": "mian.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T05:30:44.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
